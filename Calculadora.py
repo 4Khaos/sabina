@@ -21,7 +21,9 @@ Menu
 
 5) Salir
 
-6) ICKKCK
+
+6) Juanito es melo
+
 
                                 /|         ,
                               ,///        /|
