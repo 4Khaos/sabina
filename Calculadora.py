@@ -21,7 +21,7 @@ Menu
 
 5) Salir
 
-6) Juanito
+6) ICKKCK
 
                                 /|         ,
                               ,///        /|
