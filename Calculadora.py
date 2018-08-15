@@ -21,7 +21,7 @@ Menu
 
 5) Salir
 
-6) OPCION 6
+6) Juanito
 
                                 /|         ,
                               ,///        /|
